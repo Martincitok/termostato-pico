@@ -1,1 +1,0 @@
-# termostato-pico
